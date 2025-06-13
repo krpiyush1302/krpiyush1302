@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FinTeck Bridge**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 💬 Ask me about **Database Management & Networking**
 
