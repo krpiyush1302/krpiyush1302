@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krpiyush1302" alt="krpiyush1302" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krpiyush1302&label=Profile%20views&color=0e75b6&style=flat" alt="krpiyush1302" /> </p>
 <hr>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krpiyush1302" alt="krpiyush1302" /></a> </p>
 
 - 🔭 I’m currently working on **FinTeck Bridge**
 
