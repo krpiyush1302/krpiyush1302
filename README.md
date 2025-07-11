@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Database Management & Networking**
 
-- 📫 How to reach me **https://www.linkedin.com/in/piyush-raj-sde/**
+- 📫 How to reach me **https://www.linkedin.com/in/piyushraj-infosec/**
 
 - 📄 Know about my experiences [https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf](https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf)
 
