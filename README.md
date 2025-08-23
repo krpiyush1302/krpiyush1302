@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
-<h3 align="center">A passionate Software Developer and aspiring Cybersecurity Professional from India.</h3>
+<h3 align="center">Aspiring Cybersecurity Professional | Software Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krpiyush1302&label=Profile%20views&color=0e75b6&style=flat" alt="krpiyush1302" /> </p>
 
@@ -8,15 +8,17 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m currently working on **PrimeStream**
+- 🎯 Transitioning from Software Development to Cybersecurity
 
-- 🌱 I’m currently learning **Networking & DSA**
+- 🌱 Currently learning Networking, SOC Operations & DSA
 
-- 💬 Ask me about **Database Management & Networking**
+- 🛡️ Interested in Threat Hunting, Network Security & Incident Response
+
+- 💬 Ask me about Database Management, Networking, and Cybersecurity Fundamentals
 
 - 📫 How to reach me **https://www.linkedin.com/in/piyushraj-infosec/**
 
-- 📄 Know about my experiences [https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf](https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf)
+- 📄 Know about my experiences [https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf](https://drive.google.com/file/d/17NbjFBcw6b-6u_oe7PvK_RZwSlsUQJwB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
