@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 <h3 align="center">A passionate Cyber Security Enthusiast from India</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krpiyush1302&label=Profile%20views&color=0e75b6&style=flat" alt="krpiyush1302" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krpiyush1302" alt="krpiyush1302" /></a> </p>
-
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🎯 Transitioning from **Software Development to Cybersecurity**
@@ -39,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krpiyush1302&show_icons=true&locale=en&layout=compact" alt="krpiyush1302" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krpiyush1302&show_icons=true&locale=en" alt="krpiyush1302" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krpiyush1302&" alt="krpiyush1302" /></p>
