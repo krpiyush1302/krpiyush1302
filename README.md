@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/piyushraj-infosec/**
 
-- 📄 Know about my experiences [https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf](https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf)
+- 📄 Know about my experiences [https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf](https://drive.google.com/file/d/17NbjFBcw6b-6u_oe7PvK_RZwSlsUQJwB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
