@@ -13,13 +13,13 @@
 
 - 🛡️ Interested in **Threat Hunting, Network Security & Incident Response**
 
-- 👨‍💻 All of my projects are available at [https://tryhackme.com/p/SOCxPiyush](https://tryhackme.com/p/SOCxPiyush)
+- 👨‍💻 All of my projects are available at [https://tryhackme.com/p/SecOpsPiyush](https://tryhackme.com/p/SecOpsPiyush)
 
 - 💬 Ask me about **Database Management, Networking, and Cybersecurity Fundamentals**
 
 - 📫 How to reach me **https://www.linkedin.com/in/piyushraj-infosec/**
 
-- 📄 Know about my experiences [https://github.com/krpiyush1302/Resume/blob/main/Piyush_Gen_CV.pdf](https://drive.google.com/file/d/17NbjFBcw6b-6u_oe7PvK_RZwSlsUQJwB/view?usp=sharing)
+- 📄 Know about my experiences [Piyush Resume](https://drive.google.com/file/d/1vuzKrAy5P3fUxlSov0FPvhRcKeXVBewT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
